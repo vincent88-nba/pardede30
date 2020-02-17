@@ -10,16 +10,16 @@ body {
 
 #profile-container{
 
-    max-width: 300px;
+    max-width: 200px;
     margin: 80px auto;
     background-color: white;
     border: 1px solid gray;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 
 #profile-image{
 
-    widows: 100%;
+    widows: 300%;
     height: auto;
 }
 
